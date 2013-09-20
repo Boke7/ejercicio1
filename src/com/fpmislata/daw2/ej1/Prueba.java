@@ -46,7 +46,7 @@ public class Prueba {
         mapPersonas.put(persona3.getDni(),persona3);
         mapPersonas.put(persona1.getDni(),persona1);
         mapPersonas.put(persona2.getDni(),persona2);
-        //Persona personaBuscada = mapPersonas.get(sc.nextLine());
+        /*Persona personaBuscada = mapPersonas.get(sc.nextLine());*/
         
         Set<String> dnis = mapPersonas.keySet();
         
